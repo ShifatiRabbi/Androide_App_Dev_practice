@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SumSub</string>
+    <string name="editText1">Enter a digit</string>
+    <string name="editText2">Enter a digit</string>
+    <string name="button1">+</string>
+    <string name="button2">-</string>
+</resources>

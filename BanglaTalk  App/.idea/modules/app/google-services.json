@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "793973675884",
+    "firebase_url": "https://banglatalk-50d67.firebaseio.com",
+    "project_id": "banglatalk-50d67",
+    "storage_bucket": "banglatalk-50d67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793973675884:android:c7ffe100948b8e227d8549",
+        "android_client_info": {
+          "package_name": "com.example.banglatalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793973675884-5443q8su79inrgplrs11i11m32ppj5q0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.banglatalk",
+            "certificate_hash": "a229186eb0cbdd5c521e185e4ef9d2251322ce84"
+          }
+        },
+        {
+          "client_id": "793973675884-v0g3qcrq02a1hbve2ik0uv9khkbg1c3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuY9aDtU6I8jEBy0n9sQpSFCf3EvX6oGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793973675884-v0g3qcrq02a1hbve2ik0uv9khkbg1c3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
